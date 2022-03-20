@@ -14,6 +14,6 @@ B. If want to do using mouse then put the below instruction in
 set mouse= a
 Save the file using :wq and reload the terminal
 We will be navigate using mouse in panes in vimdiff
-
+5. df -kh to view the disk usage
 
 
