@@ -1,0 +1,19 @@
+1. Command to create tar file
+tar -czvf filename.tar.gz filename
+2. Command to untar
+tar -czvf filename.tar.gz
+3. Command to view the number of processor using top command
+ A. Execute top command
+ B. Press 1, it will show the number of cores/cpu
+4. During comparing files using vimdiff, in order
+To navigate between panes 
+A. Using keyboard , Ctrl + W and left and right keys to 
+Navigate between panes
+B. If want to do using mouse then put the below instruction in
+.vimrc file
+set mouse= a
+Save the file using :wq and reload the terminal
+We will be navigate using mouse in panes in vimdiff
+
+
+
