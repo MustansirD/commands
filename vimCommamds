@@ -1,0 +1,6 @@
+1. Removing the ^M characters, save the file in Unix 
+Format
+set fileformat=unix
+If want to save in windows format with ^M character
+Then 
+set fileformat=dos
